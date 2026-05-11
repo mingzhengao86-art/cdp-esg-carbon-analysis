@@ -1,0 +1,965 @@
+organization,primary_sector,scope1_2,industry_mean_scope1_2,deviation
+The Southern Company,Thermal power generation,105064580.92,32559887.141231883,72504693.77876812
+Duke Energy Corporation,Thermal power generation,96572000.0,32559887.141231883,64012112.85876812
+"American Electric Power Company, Inc.",Thermal power generation,91100669.0,32559887.141231883,58540781.85876812
+The Dow Chemical Company,Chemicals,34774426.0,3437119.735733333,31337306.264266666
+The AES Corporation,Thermal power generation,59632787.0,32559887.141231883,27072899.858768117
+Ameren Corporation,Energy utility networks,29662598.0,3806622.5,25855975.5
+"Air Products & Chemicals, Inc.",Chemicals,25920000.0,3437119.735733333,22482880.264266666
+Canadian Natural Resources Limited,Oil & gas extraction & production,25015699.46,4601067.299431819,20414632.16056818
+LyondellBasell Industries N.V.,Chemicals,23162000.0,3437119.735733333,19724880.264266666
+Linde PLC,Chemicals,21292000.0,3437119.735733333,17854880.264266666
+NRG Energy Inc,Thermal power generation,49900181.0,32559887.141231883,17340293.858768117
+American Airlines Group Inc,Air transport,39748651.0,22877975.575714286,16870675.424285714
+Archer Daniels Midland,Food & beverage processing,17363000.0,882845.2198484848,16480154.780151514
+ConocoPhillips,Oil & gas extraction & production,20262752.0,4601067.299431819,15661684.70056818
+Xcel Energy Inc.,Thermal power generation,47946006.0,32559887.141231883,15386118.858768117
+"Walmart, Inc.",Convenience retail,19158993.0,3958659.0579999997,15200333.942
+Delta Air Lines,Air transport,37301125.03,22877975.575714286,14423149.454285715
+FedEx Corporation,Intermodal transport & logistics,16202370.0,2182484.606,14019885.394
+Suncor Energy Inc.,Oil & gas processing,22130207.0,9274180.35,12856026.65
+UPS,Intermodal transport & logistics,14635000.0,2182484.606,12452515.394
+Nutrien Ltd.,Chemicals,14761145.0,3437119.735733333,11324025.264266666
+United Airlines Holdings,Air transport,33466543.0,22877975.575714286,10588567.424285714
+International Paper Company,Paper products & packaging,12506279.0,2227132.4977777777,10279146.502222221
+Occidental Petroleum Corporation,Oil & gas extraction & production,14470000.0,4601067.299431819,9868932.70056818
+"Waste Management, Inc.",Non-energy utilities,16518235.0,7007470.6,9510764.4
+TC Energy,Oil & gas storage & transportation,13913386.0,4876529.333333333,9036856.666666668
+NiSource Inc.,Energy utility networks,12624470.0,3806622.5,8817847.5
+AK Steel Holding Corporation,"Metal smelting, refining & forming",8955859.0,1395845.625,7560013.375
+Union Pacific Corporation,Rail transport,11740126.31,4774019.688571429,6966106.621428572
+AT&T Inc.,"Media, telecommunications & data center services",7681860.0,964808.89125,6717051.10875
+"Williams Companies, Inc.",Oil & gas storage & transportation,11576000.0,4876529.333333333,6699470.666666667
+Cargill,Food & beverage processing,7421863.0,882845.2198484848,6539017.780151515
+"Republic Services, Inc.",Non-energy utilities,13500615.0,7007470.6,6493144.4
+Avis Budget Group,"Trading, wholesale, distribution, rental & leasing",6872414.0,588969.6082795699,6283444.39172043
+"Marriott International, Inc.","Bars, hotels & restaurants",6836301.0,1333837.9679999999,5502463.032
+WestRock Company,Paper products & packaging,7673986.57,2227132.4977777777,5446854.072222223
+General Motors Company,Transportation equipment,6086316.0,645252.6023913043,5441063.397608696
+"Tyson Foods, Inc.",Food & beverage processing,6223579.0,882845.2198484848,5340733.780151515
+"Micron Technology, Inc.",Electrical & electronic equipment,5618610.0,393877.94455128204,5224732.055448718
+"FORTUS TECHNOLOGIES, INC",Metal products manufacturing,5451681.93,372143.78133333335,5079538.148666667
+Chemours Co/The,Chemicals,8366000.0,3437119.735733333,4928880.264266667
+"PepsiCo, Inc.",Food & beverage processing,5207239.0,882845.2198484848,4324393.780151515
+Barrick Gold Corporation,Metallic mineral mining,5451000.0,1236396.51,4214603.49
+Ford Motor Company,Transportation equipment,4792771.0,645252.6023913043,4147518.3976086956
+Eastman Chemical Company,Chemicals,7427740.0,3437119.735733333,3990620.264266667
+Intel Corporation,Electrical & electronic equipment,4377000.0,393877.94455128204,3983122.055448718
+"Alphabet, Inc.",Web & marketing services,4408207.0,504502.72222222225,3903704.277777778
+DTE Energy Company,Thermal power generation,36184000.0,32559887.141231883,3624112.8587681167
+Husky Energy Inc.,Oil & gas processing,12894000.0,9274180.35,3619819.6500000004
+Verizon Communications Inc.,"Media, telecommunications & data center services",4418820.0,964808.89125,3454011.10875
+Newmont Mining Corporation,Metallic mineral mining,4686595.18,1236396.51,3450198.67
+Owens Corning,Other materials,4298225.25,875466.0416666666,3422759.2083333335
+3M Company,Chemicals,6650000.0,3437119.735733333,3212880.264266667
+Hertz Global Holdings,"Trading, wholesale, distribution, rental & leasing",3703313.0,588969.6082795699,3114343.39172043
+Ingredion Incorporated,Food & beverage processing,3946109.0,882845.2198484848,3063263.7801515153
+Microsoft Corporation,IT & software development,3091246.0,193074.4487037037,2898171.5512962965
+Arconic Corp,Powered machinery,3307928.0,492140.990263158,2815787.009736842
+Bunge,"Trading, wholesale, distribution, rental & leasing",3269071.0,588969.6082795699,2680101.39172043
+Digital Realty Trust Inc,Financial services,2795930.0,171088.25329545455,2624841.7467045453
+Anadarko Petroleum Corporation,Oil & gas extraction & production,7071480.0,4601067.299431819,2470412.7005681815
+Goodyear Tire & Rubber Company,Light manufacturing,2742299.0,372889.305,2369409.695
+General Electric Company,Powered machinery,2804558.16,492140.990263158,2312417.169736842
+CONSOL Energy Inc,Coal mining,7514924.0,5205697.52,2309226.4800000004
+Honeywell International Inc.,Electrical & electronic equipment,2527992.0,393877.94455128204,2134114.055448718
+Corning Incorporated,Metal products manufacturing,2408882.0,372143.78133333335,2036738.2186666667
+"Lowe's Companies, Inc.",Discretionary retail,2406203.0,399419.16086956527,2006783.8391304347
+The Mosaic Company,Chemicals,5440439.0,3437119.735733333,2003319.264266667
+Kroger,Convenience retail,5917427.0,3958659.0579999997,1958767.9420000003
+Johnson Controls International PLC,Electrical & electronic equipment,2347591.0,393877.94455128204,1953713.055448718
+Texas Instruments Incorporated,Electrical & electronic equipment,2257142.0,393877.94455128204,1863264.055448718
+"The Home Depot, Inc.",Discretionary retail,2165436.0,399419.16086956527,1766016.8391304347
+ON Semiconductor,Electrical & electronic equipment,2146663.0,393877.94455128204,1752785.055448718
+Magna International Inc.,Metal products manufacturing,2120298.0,372143.78133333335,1748154.2186666667
+Devon Energy Corporation,Oil & gas extraction & production,6301624.88,4601067.299431819,1700557.5805681814
+Cabot Corporation,Chemicals,5092000.0,3437119.735733333,1654880.264266667
+Domtar Corporation,Wood & paper materials,2540199.0,1054255.46,1485943.54
+Algonquin Power & Utilities Corporation,Renewable power generation,2880730.73,1470104.0833333333,1410626.6466666667
+United Technologies Corporation,Electrical & electronic equipment,1790783.0,393877.94455128204,1396905.055448718
+Procter & Gamble Company,Chemicals,4736516.0,3437119.735733333,1299396.264266667
+CenturyLink,"Media, telecommunications & data center services",2261767.9600000004,964808.89125,1296959.0687500006
+Canadian National Railway Company,Rail transport,5965175.0,4774019.688571429,1191155.3114285711
+Pfizer Inc.,Biotech & pharma,1662639.5,490762.4593333333,1171877.0406666668
+"Berry Global Group, Inc",Light manufacturing,1498004.0,372889.305,1125114.695
+Resolute Forest Products Inc.,Wood & paper materials,2162211.5,1054255.46,1107956.04
+CVS Health,Financial services,1274099.11,171088.25329545455,1103010.8567045457
+Halliburton Company,Industrial support services,1309109.0,216348.259,1092760.741
+Sonoco Products Company,Plastic product manufacturing,1172734.0,94117.4662,1078616.5338
+"Hilton Worldwide, Inc.","Bars, hotels & restaurants",2407097.0,1333837.9679999999,1073259.0320000001
+International Business Machines (IBM),IT & software development,1257663.0,193074.4487037037,1064588.5512962963
+Comcast Corporation,"Media, telecommunications & data center services",1994841.0,964808.89125,1030032.10875
+"EQUINIX, INC.","Media, telecommunications & data center services",1963093.0,964808.89125,998284.10875
+Crown Holdings,Metal products manufacturing,1367305.0,372143.78133333335,995161.2186666667
+"Albertsons Companies, Inc.",Convenience retail,4952323.49,3958659.0579999997,993664.4320000005
+Ball Corporation,Metal products manufacturing,1336267.0,372143.78133333335,964123.2186666667
+Walt Disney Company,"Media, telecommunications & data center services",1925397.0,964808.89125,960588.10875
+Darling Ingredients Inc,Food & beverage processing,1825499.0,882845.2198484848,942653.7801515152
+Mondelez International Inc,Food & beverage processing,1781224.0,882845.2198484848,898378.7801515152
+Boeing Company,Transportation equipment,1538000.0,645252.6023913043,892747.3976086957
+Eli Lilly & Co.,Biotech & pharma,1375528.0,490762.4593333333,884765.5406666667
+Mars,Food & beverage processing,1759420.0,882845.2198484848,876574.7801515152
+Sysco Corporation,"Trading, wholesale, distribution, rental & leasing",1456132.0,588969.6082795699,867162.3917204301
+Manulife Financial Corp.,Financial services,989846.0,171088.25329545455,818757.7467045455
+Eaton Corporation,Electrical & electronic equipment,1203962.2233333334,393877.94455128204,810084.2787820513
+Kohler Co.,Leisure & home manufacturing,859900.0,54371.64676470588,805528.3532352941
+"EOG Resources, Inc.",Oil & gas extraction & production,5405641.45,4601067.299431819,804574.1505681816
+Packaging Corporation Of America,Paper products & packaging,3020015.333333333,2227132.4977777777,792882.8355555553
+Western Digital Corp,Electrical & electronic equipment,1156553.9000000001,393877.94455128204,762675.955448718
+Wells Fargo & Company,Financial services,928520.0,171088.25329545455,757431.7467045455
+Abbott Laboratories,Health care provision,1050000.0,305551.2158333333,744448.7841666667
+"Merck & Co., Inc.",Biotech & pharma,1208100.0,490762.4593333333,717337.5406666667
+American Axle & MFG Holdings Inc,Metal products manufacturing,1082996.9,372143.78133333335,710853.1186666666
+Bank of America,Financial services,876311.0,171088.25329545455,705222.7467045455
+Thermo Fisher Scientific Inc.,Medical equipment & supplies,838288.95,137876.427,700412.5229999999
+Deere & Company,Powered machinery,1146115.0,492140.990263158,653974.009736842
+JPMorgan Chase & Co.,Financial services,822559.0,171088.25329545455,651470.7467045455
+Johnson & Johnson,Biotech & pharma,1125380.0,490762.4593333333,634617.5406666667
+Hormel Foods,Food & beverage processing,1510937.0,882845.2198484848,628091.7801515152
+The Coca-Cola Company,Food & beverage processing,1508070.0,882845.2198484848,625224.7801515152
+Ecolab Inc.,Commercial & consumer services,663940.0,40473.16380952381,623466.8361904762
+Baxter International Inc.,Medical equipment & supplies,754000.0,137876.427,616123.573
+Novelis Inc.,"Metal smelting, refining & forming",2008304.0,1395845.625,612458.375
+AMKOR TECHNOLOGY INC,Electrical & electronic equipment,987632.52,393877.94455128204,593754.5754487179
+Lockheed Martin Corporation,Electrical & electronic equipment,964630.0,393877.94455128204,570752.0554487179
+"Cisco Systems, Inc.",IT & software development,707879.0,193074.4487037037,514804.5512962963
+Flex Ltd.,Electrical & electronic equipment,905182.0,393877.94455128204,511304.05544871796
+Citigroup Inc.,Financial services,657652.0,171088.25329545455,486563.74670454545
+Sealed Air Corp.,Plastic product manufacturing,523283.0,94117.4662,429165.5338
+Greif Inc,Metal products manufacturing,792559.0,372143.78133333335,420415.21866666665
+Baker Hughes Company,Industrial support services,635624.0,216348.259,419275.74100000004
+Philip Morris International,Tobacco,830499.0,422265.41,408233.59
+Microchip Technology,Electrical & electronic equipment,777693.0,393877.94455128204,383815.05544871796
+"TJX Companies, Inc.",Discretionary retail,782883.0,399419.16086956527,383463.83913043473
+Cummins Inc.,Powered machinery,872845.0,492140.990263158,380704.009736842
+FirstEnergy Corporation,Thermal power generation,32925763.0,32559887.141231883,365875.8587681167
+"Becton, Dickinson and Co.",Medical equipment & supplies,498281.0,137876.427,360404.573
+"Smithfield Foods, Inc.",Food & beverage processing,1241919.0,882845.2198484848,359073.78015151515
+Norfolk Southern Corp.,Rail transport,5126284.26,4774019.688571429,352264.5714285709
+Jabil Inc.,Electrical & electronic equipment,731422.0,393877.94455128204,337544.05544871796
+T Mobile USA inc,"Media, telecommunications & data center services",1279127.0,964808.89125,314318.10875
+Oracle Corporation,IT & software development,507001.0,193074.4487037037,313926.5512962963
+Illinois Tool Works Inc.,Metal products manufacturing,674833.0,372143.78133333335,302689.21866666665
+Welltower Inc.,Financial services,470760.0,171088.25329545455,299671.74670454545
+CSX Corporation,Rail transport,5073431.25,4774019.688571429,299411.5614285711
+"Ryder System, Inc.","Trading, wholesale, distribution, rental & leasing",868792.0,588969.6082795699,279822.3917204301
+Emerson Electric Co.,Electrical & electronic equipment,671634.5,393877.94455128204,277756.55544871796
+Las Vegas Sands Corporation,Entertainment facilities,1001770.0,725407.8333333334,276362.1666666666
+NIKE Inc.,Textiles & fabric goods,303558.75,35127.203157894735,268431.5468421053
+Ventas Inc,Financial services,437110.0,171088.25329545455,266021.74670454545
+Hyatt Hotels,"Bars, hotels & restaurants",1593244.0,1333837.9679999999,259406.03200000012
+Hanesbrands Inc.,Textiles & fabric goods,290575.0,35127.203157894735,255447.79684210528
+Kellogg Company,Food & beverage processing,1133896.0,882845.2198484848,251050.78015151515
+"Best Buy Co., Inc.",Discretionary retail,650039.0,399419.16086956527,250619.83913043473
+Cooper Tire & Rubber,Light manufacturing,614690.5,372889.305,241801.195
+Gildan Activewear Inc.,Apparel design,331634.0,95691.36375,235942.63624999998
+"The Martin-Brower Company, L.L.C.",Road transport,334314.0,104597.91750000001,229716.0825
+Caesars Entertainment,Entertainment facilities,950305.3333333334,725407.8333333334,224897.5
+Sungard Availability Services (Sungard AS),Specialized professional services,252320.07000000004,29342.111234567903,222977.95876543212
+Molson Coors Brewing Company,Food & beverage processing,1103631.0,882845.2198484848,220785.78015151515
+Deloitte Touche Tohmatsu Limited,Specialized professional services,249925.0,29342.111234567903,220582.8887654321
+"Host Hotels & Resorts, Inc.",Financial services,389904.0,171088.25329545455,218815.74670454545
+jcpenney,Discretionary retail,615613.41,399419.16086956527,216194.24913043476
+"Macy's, Inc.",Discretionary retail,597752.0,399419.16086956527,198332.83913043473
+US Foods,"Trading, wholesale, distribution, rental & leasing",765795.78,588969.6082795699,176826.17172043014
+U.S. Bancorp,Financial services,346374.5,171088.25329545455,175286.24670454545
+Dana,Metal products manufacturing,542129.47,372143.78133333335,169985.68866666663
+Iron Mountain Inc.,IT & software development,362485.5,193074.4487037037,169411.0512962963
+Kohl's Corporation,Discretionary retail,553933.0,399419.16086956527,154513.83913043473
+"Mattel, Inc.",Leisure & home manufacturing,196022.03999999998,54371.64676470588,141650.3932352941
+Weyerhaeuser Company,Wood & paper materials,1195000.0,1054255.46,140744.54000000004
+Newell Brands,Leisure & home manufacturing,194960.69,54371.64676470588,140589.0432352941
+News Corp,Print & publishing services,183501.27,43123.015,140378.255
+AbbVie Inc,Biotech & pharma,630569.0,490762.4593333333,139806.5406666667
+Simon Property Group,Financial services,309962.5,171088.25329545455,138874.24670454545
+VF Corporation,Apparel design,233248.0,95691.36375,137556.63624999998
+Northrop Grumman Corp,Electrical & electronic equipment,529998.25,393877.94455128204,136120.30544871796
+Saputo Inc.,Food & beverage processing,1000200.0,882845.2198484848,117354.78015151515
+"Healthpeak Properties, Inc.",Financial services,279165.77,171088.25329545455,108077.51670454547
+Transcontinental Inc.,Print & publishing services,150723.0,43123.015,107599.985
+Dell Technologies,Electrical & electronic equipment,495346.0,393877.94455128204,101468.05544871796
+"Stanley Black & Decker, Inc.",Metal products manufacturing,470734.0,372143.78133333335,98590.21866666665
+Silgan Plastics,Plastic product manufacturing,189609.5,94117.4662,95492.0338
+Butterball,Fish & animal farming,156877.0,61482.333333333336,95394.66666666666
+AptarGroup,Plastic product manufacturing,189046.0,94117.4662,94928.5338
+"Salesforce.com, Inc.",IT & software development,285662.0,193074.4487037037,92587.5512962963
+"Automatic Data Processing, Inc.",Specialized professional services,119759.77,29342.111234567903,90417.6587654321
+MGM Resorts International,Entertainment facilities,815676.0,725407.8333333334,90268.16666666663
+SNC-Lavalin Group Inc.,Construction,97549.77,8666.06380952381,88883.7061904762
+HNI Corporation,Leisure & home manufacturing,139078.0,54371.64676470588,84706.35323529411
+Bloomberg,Specialized professional services,111150.26000000001,29342.111234567903,81808.14876543211
+"PNC Financial Services Group, Inc.",Financial services,249396.0,171088.25329545455,78307.74670454545
+Mastronardi Produce Limited,Crop farming,118737.0,40928.72666666666,77808.27333333335
+Vulcan Materials Company,Other materials,951169.0,875466.0416666666,75702.95833333337
+Visa,Specialized professional services,101684.0,29342.111234567903,72341.8887654321
+Thomson Reuters Corporation,Specialized professional services,101383.0,29342.111234567903,72040.8887654321
+Steelcase,Leisure & home manufacturing,125143.04000000001,54371.64676470588,70771.39323529412
+Morgan Stanley,Financial services,239100.0,171088.25329545455,68011.74670454545
+Parker-Hannifin Corporation,Powered machinery,558057.0,492140.990263158,65916.00973684201
+"Fiserv, Inc.",Specialized professional services,86084.0,29342.111234567903,56741.8887654321
+Fluor Corporation,Construction,64848.0,8666.06380952381,56181.93619047619
+"CBRE Group, Inc.",Other services,70508.0,22530.744642857142,47977.25535714286
+PVH Corp,Apparel design,143522.0,95691.36375,47830.636249999996
+Mastercard Incorporated,Specialized professional services,76135.5,29342.111234567903,46793.3887654321
+JLL,Other services,64551.0,22530.744642857142,42020.25535714286
+Ingram Micro Inc.,Commercial & consumer services,79866.49,40473.16380952381,39393.3261904762
+Textron Inc.,Transportation equipment,684630.0,645252.6023913043,39377.39760869567
+Paramount Group Inc,Land & property ownership & development,64176.2475,29842.0825,34334.16499999999
+CREE INC.,Electrical & electronic equipment,427876.0,393877.94455128204,33998.05544871796
+Herman Miller,Leisure & home manufacturing,86200.0,54371.64676470588,31828.35323529412
+ManpowerGroup,Specialized professional services,57223.0,29342.111234567903,27880.888765432097
+Broadridge Financial Solutions Inc,Specialized professional services,55529.0,29342.111234567903,26186.888765432097
+Northland Power Inc,Renewable power generation,1495842.0,1470104.0833333333,25737.916666666744
+Goldman Sachs Group Inc.,Financial services,196291.0,171088.25329545455,25202.746704545454
+WSP,Specialized professional services,53961.0,29342.111234567903,24618.888765432097
+Entegris Inc,Plastic product manufacturing,113475.55,94117.4662,19358.083800000008
+Stantec Inc.,Specialized professional services,48143.0,29342.111234567903,18800.888765432097
+Houweling's Group,Crop farming,59026.0,40928.72666666666,18097.273333333338
+ABM INDUSTRIES INC,Commercial & consumer services,55846.59,40473.16380952381,15373.426190476188
+Ernst & Young LLP (USA),Specialized professional services,43708.7,29342.111234567903,14366.588765432094
+"Knouse Foods, Inc",Crop farming,54105.520000000004,40928.72666666666,13176.793333333342
+"Zimmer Biomet Holdings, Inc.",Medical equipment & supplies,150045.0,137876.427,12168.573000000004
+Raytheon Company,Electrical & electronic equipment,405835.0,393877.94455128204,11957.055448717962
+AXIUM,Plastic product manufacturing,100665.675,94117.4662,6548.208800000008
+Capital One Financial,Financial services,177593.5,171088.25329545455,6505.246704545454
+"Nasdaq, Inc",Specialized professional services,35305.0,29342.111234567903,5962.888765432097
+S&P Global,Specialized professional services,32721.11,29342.111234567903,3378.9987654320976
+SOUTHWIRE CO.,Electrical & electronic equipment,396296.5,393877.94455128204,2418.5554487179616
+OFS Brands,Leisure & home manufacturing,56527.28,54371.64676470588,2155.633235294117
+WILSON CONSTRUCTION,Construction,10506.25,8666.06380952381,1840.18619047619
+US Cotton,Textiles & fabric goods,36829.0,35127.203157894735,1701.7968421052647
+TD Bank Group,Financial services,172475.0,171088.25329545455,1386.7467045454541
+Total System Services (TSYS),Specialized professional services,29609.63,29342.111234567903,267.518765432098
+Gap Inc.,Discretionary retail,399551.0,399419.16086956527,131.8391304347315
+Royal Caribbean Cruises Ltd,Marine transport,4384341.5,4384341.5,0.0
+Trinseo LLC,Wood & rubber products,1061966.0,1061966.0,0.0
+Exelon Corporation,Nuclear power generation,15646344.0,15646344.0,0.0
+World Bank Group,International bodies,65356.863333333335,65356.863333333335,0.0
+First Solar Inc,Renewable energy equipment,450090.0,450090.0,0.0
+BECK GROUP - HC BECK,Construction,7439.92,8666.06380952381,-1226.14380952381
+BLACK & VEATCH LIMITED,Specialized professional services,24484.0,29342.111234567903,-4858.111234567903
+First Capital Realty Inc.,Land & property ownership & development,24820.0,29842.0825,-5022.0825
+Rinchem Company Inc,Commercial & consumer services,32737.0,40473.16380952381,-7736.163809523809
+"Austin General Contracting, Inc.",Construction,599.99,8666.06380952381,-8066.07380952381
+POTTERS CONSTRUCTION,Construction,350.0,8666.06380952381,-8316.06380952381
+Wisconsin Energy Conservation Corporation (WECC),Construction,348.40999999999997,8666.06380952381,-8317.65380952381
+"Infinity Communications, LLC*",Construction,345.0,8666.06380952381,-8321.06380952381
+VERICON CONSTRUCTION CO LLC,Construction,0.0,8666.06380952381,-8666.06380952381
+GRADY CRAWFORD CONSTRUCTION CO,Construction,0.0,8666.06380952381,-8666.06380952381
+MDU Resources Group Inc,Construction,0.0,8666.06380952381,-8666.06380952381
+BANCKER ELECTRIC,Construction,0.0,8666.06380952381,-8666.06380952381
+VANTAGE BUILDERS,Construction,0.0,8666.06380952381,-8666.06380952381
+PLATINUM GENERAL SERVICES,Construction,0.0,8666.06380952381,-8666.06380952381
+Hartford Paving,Construction,0.0,8666.06380952381,-8666.06380952381
+"Union Electric, Inc.",Construction,0.0,8666.06380952381,-8666.06380952381
+TREE CARE OF NEW YORK,Construction,0.0,8666.06380952381,-8666.06380952381
+"BARTLETT BRAINARD EACOTT, INC.",Construction,0.0,8666.06380952381,-8666.06380952381
+SCHWEITZER INC,Construction,0.0,8666.06380952381,-8666.06380952381
+CYMA BUILDERS & CONSTRUCTION M S INC,Construction,0.0,8666.06380952381,-8666.06380952381
+UNIVERSAL CONSTRUCTION,Construction,0.0,8666.06380952381,-8666.06380952381
+Verisk Analytics Inc,Specialized professional services,19785.370000000003,29342.111234567903,-9556.7412345679
+BGIS,Other services,11092.0,22530.744642857142,-11438.744642857142
+Moody's Corporation,Specialized professional services,17836.166666666668,29342.111234567903,-11505.944567901235
+Epic Designers,Textiles & fabric goods,23081.399999999998,35127.203157894735,-12045.803157894738
+Booz Allen Hamilton,Specialized professional services,16982.789999999997,29342.111234567903,-12359.321234567906
+Blue Cross Blue Shield Massachusetts,Other services,9090.3125,22530.744642857142,-13440.432142857142
+"Fossil, Inc.",Leisure & home manufacturing,40581.55,54371.64676470588,-13790.096764705879
+MSCI,Specialized professional services,10700.300000000001,29342.111234567903,-18641.811234567904
+PayPal Holdings Inc,Specialized professional services,10076.0,29342.111234567903,-19266.111234567903
+Cartus,Other services,2473.9,22530.744642857142,-20056.84464285714
+BNY Mellon,Financial services,150157.0,171088.25329545455,-20931.253295454546
+General Mills Inc.,Food & beverage processing,861849.0,882845.2198484848,-20996.21984848485
+SHI International Corp.,Specialized professional services,8026.0,29342.111234567903,-21316.111234567903
+UNLEASHING LEADERS INC,Other services,0.0,22530.744642857142,-22530.744642857142
+CALIENTE CONSTRUCTION INC,Other services,0.0,22530.744642857142,-22530.744642857142
+Kelly Services,Specialized professional services,6344.5,29342.111234567903,-22997.611234567903
+Guidehouse,Specialized professional services,5565.0,29342.111234567903,-23777.111234567903
+Robert Half International Inc.,Commercial & consumer services,15466.560000000001,40473.16380952381,-25006.603809523807
+DaVita Inc.,Health care provision,279855.295,305551.2158333333,-25695.920833333337
+EMCOR Group Inc.,Specialized professional services,3597.0,29342.111234567903,-25745.111234567903
+"Kimball International, Inc.",Leisure & home manufacturing,28083.14,54371.64676470588,-26288.506764705882
+Edelman,Specialized professional services,2487.57,29342.111234567903,-26854.541234567903
+Akamai Technologies Inc,IT & software development,166081.88999999998,193074.4487037037,-26992.55870370372
+J M Farms,Crop farming,13703.84,40928.72666666666,-27224.88666666666
+CHA HOLDINGS,Specialized professional services,1602.7,29342.111234567903,-27739.411234567902
+"GZA Geoenvironmental, Inc.",Specialized professional services,1221.46,29342.111234567903,-28120.651234567904
+Charles Komar & Sons,Textiles & fabric goods,6862.18,35127.203157894735,-28265.023157894735
+ENGIE Impact,Specialized professional services,1010.74,29342.111234567903,-28331.3712345679
+Bank of Montreal,Financial services,141944.0,171088.25329545455,-29144.253295454546
+"Krueger International, Inc",Leisure & home manufacturing,25162.03,54371.64676470588,-29209.616764705883
+DESIGN LABORATORY INC,Specialized professional services,59.67,29342.111234567903,-29282.441234567905
+BEACHHEAD INCORPORATED,Specialized professional services,32.7,29342.111234567903,-29309.411234567902
+Prairiesky Royalty Ltd,Land & property ownership & development,530.0,29842.0825,-29312.0825
+SHANG HAI JING SHENG,Specialized professional services,20.0,29342.111234567903,-29322.111234567903
+Strong Tower Consulting,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+PATTERSON & SHERIDAN,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+MONUMENT CONSULTING LLC,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+Fidelity National Information Services,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+Insight Global,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+SUN TECHNOLOGIES INC,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+"exp U.S. Services, Inc",Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+SKY TESTING SERVICES,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+NCS TECHNOLOGIES,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+CONTROLPOINT TECHNOLOGIES,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+"LOUREIRO ENGINEERING ASSOCIATES, INC.",Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+ALLEGIS GROUP SAS,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+Icon Health & Fitness Inc,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+ULC ROBOTICS,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+MOSAIC SALES SOLUTIONS US OPERATING,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+Performance Technology Partners,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+CATALYSIS Inc.,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+REDMOND TECHNOLOGY PARTNERS LLC,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+THE SPUR GROUP INC,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+GEOSYNTEC CONSULTANTS,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+THE ROSEN GROUP PROFESSIONAL,Specialized professional services,0.0,29342.111234567903,-29342.111234567903
+National Office Furniture,Leisure & home manufacturing,23798.62,54371.64676470588,-30573.026764705883
+Garan Manufacturing Corp,Textiles & fabric goods,4481.24,35127.203157894735,-30645.963157894737
+Boston Scientific Corporation,Medical equipment & supplies,105568.0,137876.427,-32308.426999999996
+Evenflo Company Inc,Leisure & home manufacturing,21256.0,54371.64676470588,-33115.64676470588
+Bumble Bee Foods LLC,Fish & animal farming,27570.0,61482.333333333336,-33912.333333333336
+Land N Sea Inc,Textiles & fabric goods,800.95,35127.203157894735,-34326.25315789474
+American Express,Financial services,136726.0,171088.25329545455,-34362.253295454546
+Jiangyin Shule,Textiles & fabric goods,614.5,35127.203157894735,-34512.703157894735
+Tai Apparel Inc.,Textiles & fabric goods,330.0,35127.203157894735,-34797.203157894735
+SUNRISE IDENTITY LLC,Textiles & fabric goods,197.62,35127.203157894735,-34929.58315789473
+PEKING HANDICRAFT INC,Textiles & fabric goods,86.22,35127.203157894735,-35040.983157894734
+NYC ALLIANCE COMPANY LLC,Textiles & fabric goods,0.0,35127.203157894735,-35127.203157894735
+Greensource,Textiles & fabric goods,0.0,35127.203157894735,-35127.203157894735
+Jjs Mae Inc Dba Rainbeau,Textiles & fabric goods,0.0,35127.203157894735,-35127.203157894735
+Olaes Enterprises,Textiles & fabric goods,0.0,35127.203157894735,-35127.203157894735
+E S Originals Inc,Textiles & fabric goods,0.0,35127.203157894735,-35127.203157894735
+Fashion Avenue Knits Inc,Textiles & fabric goods,0.0,35127.203157894735,-35127.203157894735
+S P L Industries Limited,Textiles & fabric goods,0.0,35127.203157894735,-35127.203157894735
+Town & Country Linen,Textiles & fabric goods,0.0,35127.203157894735,-35127.203157894735
+DG3 NORTH AMERICA INC,Print & publishing services,5767.17,43123.015,-37355.845
+"Harvard Maintenance, Inc.",Commercial & consumer services,1765.8000000000002,40473.16380952381,-38707.363809523806
+Teknion Limited,Leisure & home manufacturing,14690.0,54371.64676470588,-39681.64676470588
+Levi Strauss & Co.,Apparel design,55996.0,95691.36375,-39695.363750000004
+IWCO DIRECT,Print & publishing services,3222.68,43123.015,-39900.335
+Stryker Corporation,Medical equipment & supplies,97854.0,137876.427,-40022.426999999996
+NEWPORT IP LLC,Commercial & consumer services,314.0,40473.16380952381,-40159.16380952381
+EPE INDUSTRIES,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+GLOBAL BUILDING SERVICES,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+SUBURBAN CONTRACT CLEANING,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+Boyd Group Services Inc.,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+ACRO SERVICE CORP,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+A PLUS MEETINGS & INCENTIVES,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+Acosta Inc.,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+MARKET STRATEGIES INC,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+RENEE TAYLOR CONSULTING INC,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+MENEMSHA COMPANIES,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+"Hollingsworth, Inc.",Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+CleanNet USA,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+DESERT LABOR SVCS LLC,Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+"3SI Security Systems, Inc.",Commercial & consumer services,0.0,40473.16380952381,-40473.16380952381
+Bank of Nova Scotia (Scotiabank),Financial services,130353.66666666666,171088.25329545455,-40734.58662878789
+MAGIC DIRT,Crop farming,0.0,40928.72666666666,-40928.72666666666
+"HARVEST LAND CO-OP, INC.",Crop farming,0.0,40928.72666666666,-40928.72666666666
+"Hasbro, Inc.",Leisure & home manufacturing,13076.0,54371.64676470588,-41295.64676470588
+Brady Corporation,Print & publishing services,1770.0,43123.015,-41353.015
+The Allstate Corporation,Financial services,128853.0,171088.25329545455,-42235.253295454546
+IDEAL JACOBS,Print & publishing services,0.0,43123.015,-43123.015
+"Franklin Press, Inc.",Print & publishing services,0.0,43123.015,-43123.015
+AlmadenÂ Press,Print & publishing services,0.0,43123.015,-43123.015
+Anthem Inc,Financial services,126093.25,171088.25329545455,-44995.003295454546
+Trendway Corporation,Leisure & home manufacturing,5861.1,54371.64676470588,-48510.54676470588
+Bernhardt Design a Division of Bernhardt Furniture Company,Leisure & home manufacturing,3888.0,54371.64676470588,-50483.64676470588
+Inscape Corporation,Leisure & home manufacturing,3635.0,54371.64676470588,-50736.64676470588
+M&M Cartage,Road transport,53146.880000000005,104597.91750000001,-51451.037500000006
+Regions Financial Corporation,Financial services,119349.25,171088.25329545455,-51739.003295454546
+Yotrio Group,Leisure & home manufacturing,2453.5,54371.64676470588,-51918.14676470588
+Radio Flyer Inc,Leisure & home manufacturing,1994.7,54371.64676470588,-52376.946764705885
+Public Storage,Financial services,118625.12000000001,171088.25329545455,-52463.133295454536
+Humanscale Corporation,Leisure & home manufacturing,1874.78,54371.64676470588,-52496.86676470588
+RCS SYSTEMS INC,Leisure & home manufacturing,1534.5,54371.64676470588,-52837.14676470588
+"Davies Office Refurbishing, Inc.",Leisure & home manufacturing,1144.0,54371.64676470588,-53227.64676470588
+Keilhauer,Leisure & home manufacturing,698.43,54371.64676470588,-53673.21676470588
+Allseating Corporation,Leisure & home manufacturing,414.86,54371.64676470588,-53956.78676470588
+Cousin Corporation of America,Leisure & home manufacturing,331.0,54371.64676470588,-54040.64676470588
+Via Seating,Leisure & home manufacturing,324.73,54371.64676470588,-54046.91676470588
+"Dorel Home Furnishings, Inc.",Leisure & home manufacturing,3.0,54371.64676470588,-54368.64676470588
+Baublebar,Leisure & home manufacturing,0.0,54371.64676470588,-54371.64676470588
+J W Mfg,Leisure & home manufacturing,0.0,54371.64676470588,-54371.64676470588
+MCS,Leisure & home manufacturing,0.0,54371.64676470588,-54371.64676470588
+JIMCO LAMP & MANUFACTURING CO,Leisure & home manufacturing,0.0,54371.64676470588,-54371.64676470588
+INSIGHT PROMOTIONS LLC,Leisure & home manufacturing,0.0,54371.64676470588,-54371.64676470588
+Multipet International,Leisure & home manufacturing,0.0,54371.64676470588,-54371.64676470588
+"YUPPIE PUPPY PET PRODUCTS, INC",Leisure & home manufacturing,0.0,54371.64676470588,-54371.64676470588
+Royal Bank of Canada,Financial services,116495.0,171088.25329545455,-54593.253295454546
+Laboratory Corporation of America Holdings,Health care provision,248691.0,305551.2158333333,-56860.21583333332
+"MetLife, Inc.",Financial services,112483.0,171088.25329545455,-58605.253295454546
+"Tri-Union Frozen Products, Inc.",Fish & animal farming,0.0,61482.333333333336,-61482.333333333336
+"Marsh & McLennan Companies, Inc.",Financial services,107907.93,171088.25329545455,-63180.32329545455
+Fifth Third Bancorp,Financial services,105565.0,171088.25329545455,-65523.253295454546
+SL Green Realty Corp.,Financial services,105312.67666666667,171088.25329545455,-65775.57662878788
+"MSA Safety, Inc.",Plastic product manufacturing,27656.7,94117.4662,-66460.7662
+Amphenol Corporation,Electrical & electronic equipment,326537.5,393877.94455128204,-67340.44455128204
+Humana Inc.,Financial services,102686.0,171088.25329545455,-68402.25329545455
+HP Inc,Electrical & electronic equipment,324075.0,393877.94455128204,-69802.94455128204
+State Street Corporation,Financial services,100112.75,171088.25329545455,-70975.50329545455
+Cypress Semiconductor Corporation,Electrical & electronic equipment,320389.0,393877.94455128204,-73488.94455128204
+TTR Transport,Road transport,30930.790000000005,104597.91750000001,-73667.1275
+Agilent Technologies Inc.,Medical equipment & supplies,59484.25,137876.427,-78392.177
+Sun Life Financial Inc.,Financial services,91426.0,171088.25329545455,-79662.25329545455
+Tessy Plastics,Plastic product manufacturing,12737.550000000001,94117.4662,-81379.91619999999
+Huntington Bancshares Incorporated,Financial services,87000.0,171088.25329545455,-84088.25329545455
+GW Plastics,Plastic product manufacturing,9498.5,94117.4662,-84618.9662
+Tecomet,Medical equipment & supplies,50868.0,137876.427,-87008.427
+SHANGHAI YINGSHUO PLASTIC CO;LTD,Plastic product manufacturing,7079.16,94117.4662,-87038.30619999999
+Gates Corporation,Plastic product manufacturing,5766.0,94117.4662,-88351.4662
+Avantor,Medical equipment & supplies,49208.0,137876.427,-88668.427
+Quest Diagnostics Incorporated,Health care provision,216480.5,305551.2158333333,-89070.71583333332
+"Altria Group, Inc.",Tobacco,332258.0,422265.41,-90007.40999999997
+AvalonBay Communities,Financial services,80752.0,171088.25329545455,-90336.25329545455
+"Precision Tool & Mold, Inc.",Plastic product manufacturing,841.5400000000001,94117.4662,-93275.9262
+MINIATURE PRECISION COMP.,Plastic product manufacturing,465.12,94117.4662,-93652.3462
+"CASCADE ENGINEERING, INC.",Plastic product manufacturing,41.949999999999996,94117.4662,-94075.5162
+ALP LIGHTING COMPONENTS,Plastic product manufacturing,36.41,94117.4662,-94081.05619999999
+"EMU PLASTICS (TEX) LIMITED, INC.",Plastic product manufacturing,0.0,94117.4662,-94117.4662
+MAMCO PRECISION MOLDING,Plastic product manufacturing,0.0,94117.4662,-94117.4662
+WISE PLASTICS TECHNOLOGIES,Plastic product manufacturing,0.0,94117.4662,-94117.4662
+"CAROLINA PRECISION PLASTICS, LLC",Plastic product manufacturing,0.0,94117.4662,-94117.4662
+Mold-Rite Plastics LLC,Plastic product manufacturing,0.0,94117.4662,-94117.4662
+QP HOLDINGS LLC DBA QUANTUM PLASTIC,Plastic product manufacturing,0.0,94117.4662,-94117.4662
+PACKAGING PRODUCTS CORP,Plastic product manufacturing,0.0,94117.4662,-94117.4662
+BEEMAKPLASTICSINC,Plastic product manufacturing,0.0,94117.4662,-94117.4662
+Hollander Home Fashions,Plastic product manufacturing,0.0,94117.4662,-94117.4662
+"TRICOR PACIFIC CAPITAL, INC",Plastic product manufacturing,0.0,94117.4662,-94117.4662
+Nanjing Usa,Apparel design,683.76,95691.36375,-95007.60375000001
+Stony Apparel Corporation,Apparel design,267.14,95691.36375,-95424.22375
+"All Access Apparel, Inc.",Apparel design,177.15,95691.36375,-95514.21375000001
+Faryl Robin Shoe Agent,Apparel design,2.86,95691.36375,-95688.50375
+Chubb Limited,Financial services,73238.0,171088.25329545455,-97850.25329545455
+"Prudential Financial, Inc.",Financial services,72517.0,171088.25329545455,-98571.25329545455
+"Genpact International, LLC",IT & software development,94494.0,193074.4487037037,-98580.4487037037
+Cigna,Financial services,69953.0,171088.25329545455,-101135.25329545455
+Varian Medical Systems Inc,Medical equipment & supplies,33952.0,137876.427,-103924.427
+ABF,Road transport,0.0,104597.91750000001,-104597.91750000001
+"PerkinElmer, Inc.",Medical equipment & supplies,31948.0,137876.427,-105928.427
+Macerich Co.,Financial services,65121.72,171088.25329545455,-105966.53329545454
+ShawCor Ltd.,Industrial support services,107348.0,216348.259,-109000.25899999999
+West Pharmaceutical Services,Medical equipment & supplies,28633.0,137876.427,-109243.427
+H&R Real Estate Investment Trust,Financial services,61697.0,171088.25329545455,-109391.25329545455
+KeyCorp,Financial services,60429.27,171088.25329545455,-110658.98329545456
+Waters Corporation,Medical equipment & supplies,27100.0,137876.427,-110776.427
+Canadian Imperial Bank of Commerce (CIBC),Financial services,59924.0,171088.25329545455,-111164.25329545455
+Finning International Inc.,Industrial support services,104756.0,216348.259,-111592.25899999999
+Citizens Financial Group Inc,Financial services,58034.0,171088.25329545455,-113054.25329545455
+"Hologic, Inc.",Medical equipment & supplies,24041.645000000004,137876.427,-113834.78199999999
+"The Travelers Companies, Inc.",Financial services,55471.0,171088.25329545455,-115617.25329545455
+Power Corporation of Canada,Financial services,54024.0,171088.25329545455,-117064.25329545455
+Charles Schwab Corporation,Financial services,53809.0,171088.25329545455,-117279.25329545455
+Bristol-Myers Squibb,Biotech & pharma,372000.0,490762.4593333333,-118762.4593333333
+Graphic Packaging International LLC,Paper products & packaging,2106428.0,2227132.4977777777,-120704.49777777772
+"VMware, Inc",IT & software development,71978.0,193074.4487037037,-121096.4487037037
+"Adobe, Inc.",IT & software development,70993.0,193074.4487037037,-122081.4487037037
+Leidos,IT & software development,69814.0,193074.4487037037,-123260.4487037037
+Power Financial Corporation,Financial services,47632.0,171088.25329545455,-123456.25329545455
+Great-West Lifeco Inc.,Financial services,46904.0,171088.25329545455,-124184.25329545455
+Comerica Incorporated,Financial services,46287.0,171088.25329545455,-124801.25329545455
+"Principal Financial Group, Inc.",Financial services,43450.0,171088.25329545455,-127638.25329545455
+REGAL BELOIT,Electrical & electronic equipment,266009.0125,393877.94455128204,-127868.93205128203
+Alliance Data Systems,Financial services,42422.0,171088.25329545455,-128666.25329545455
+"The Hartford Financial Services Group, Inc.",Financial services,41707.5,171088.25329545455,-129380.75329545455
+Kilroy Realty,Financial services,41397.0,171088.25329545455,-129691.25329545455
+Symantec Corporation,IT & software development,63252.0,193074.4487037037,-129822.4487037037
+ERGOTRON,Medical equipment & supplies,7777.0,137876.427,-130099.427
+Kimco Realty,Financial services,39037.759999999995,171088.25329545455,-132050.49329545454
+"Franklin Resources, Inc.",Financial services,36304.58,171088.25329545455,-134783.67329545453
+"L Brands, Inc.",Discretionary retail,264167.0,399419.16086956527,-135252.16086956527
+MEDELA INC,Medical equipment & supplies,433.415,137876.427,-137443.012
+Stance Healthcare,Medical equipment & supplies,46.28,137876.427,-137830.147
+"Comar, Inc.",Medical equipment & supplies,0.0,137876.427,-137876.427
+Dentsply Sirona Inc.,Medical equipment & supplies,0.0,137876.427,-137876.427
+Teleflex Incorporated,Medical equipment & supplies,0.0,137876.427,-137876.427
+"T. Rowe Price Associates, Inc.",Financial services,32957.06,171088.25329545455,-138131.19329545455
+Cincinnati Financial Corporation,Financial services,32496.89,171088.25329545455,-138591.36329545453
+BorgWarner,Powered machinery,352853.0,492140.990263158,-139287.990263158
+Unisys Corporation,IT & software development,51741.0,193074.4487037037,-141333.4487037037
+Campbell Soup Company,Food & beverage processing,740801.75,882845.2198484848,-142043.46984848485
+"Assurant, Inc.",Financial services,28372.0,171088.25329545455,-142716.25329545455
+"Nordstrom, Inc.",Discretionary retail,255912.0,399419.16086956527,-143507.16086956527
+BlackRock,Financial services,26849.66,171088.25329545455,-144238.59329545454
+Unum Group,Financial services,24255.0,171088.25329545455,-146833.25329545455
+Desjardins Group,Financial services,21503.0,171088.25329545455,-149585.25329545455
+"Synopsys, Inc.",IT & software development,43220.16,193074.4487037037,-149854.2887037037
+"Ameriprise Financial, Inc.",Financial services,19058.31,171088.25329545455,-152029.94329545455
+AFLAC Incorporated,Financial services,18988.333333333336,171088.25329545455,-152099.9199621212
+Voya Financial,Financial services,17497.0,171088.25329545455,-153591.25329545455
+"Amgen, Inc.",Biotech & pharma,336322.0,490762.4593333333,-154440.4593333333
+Navient Corp,Financial services,14022.4,171088.25329545455,-157065.85329545455
+Lincoln National Corporation,Financial services,13669.465,171088.25329545455,-157418.78829545455
+KEMET Corporation,Electrical & electronic equipment,236056.59,393877.94455128204,-157821.35455128204
+Invesco Ltd,Financial services,12487.0,171088.25329545455,-158601.25329545455
+Intact Financial Corporation,Financial services,12483.0,171088.25329545455,-158605.25329545455
+"American International Group, Inc. (AIG)",Financial services,9122.0,171088.25329545455,-161966.25329545455
+"Technical Consumer Products, Inc",Electrical & electronic equipment,230000.0,393877.94455128204,-163877.94455128204
+Prologis,Financial services,6299.333333333334,171088.25329545455,-164788.9199621212
+"Genworth Financial, Inc.",Financial services,5948.55,171088.25329545455,-165139.70329545456
+National Bank of Canada,Financial services,5736.0,171088.25329545455,-165352.25329545455
+"Analog Devices, Inc.",Electrical & electronic equipment,228404.33333333334,393877.94455128204,-165473.6112179487
+Industrial Alliance Insurance and Financial Services Inc.,Financial services,4335.0,171088.25329545455,-166753.25329545455
+"Legg Mason, Inc.",Financial services,3451.59,171088.25329545455,-167636.66329545455
+"CommScope, Inc.",Electrical & electronic equipment,224321.97,393877.94455128204,-169555.97455128204
+Affiliated Managers Group,Financial services,1161.415,171088.25329545455,-169926.83829545454
+IGM Financial Inc.,Financial services,726.0,171088.25329545455,-170362.25329545455
+"Hannon Armstrong Sustainable Infrastructure Capital, Inc",Financial services,70.5,171088.25329545455,-171017.75329545455
+Wheaton Precious Metals,Financial services,25.93,171088.25329545455,-171062.32329545455
+GRANITE SOLUTIONS GROUPE,Financial services,0.0,171088.25329545455,-171088.25329545455
+Eaton Vance,Financial services,0.0,171088.25329545455,-171088.25329545455
+MILLENNIUM REAL ESTATE SERVICE,Financial services,0.0,171088.25329545455,-171088.25329545455
+Extra Space Storage Inc,Financial services,0.0,171088.25329545455,-171088.25329545455
+"Safeguard Properties, LLC",Financial services,0.0,171088.25329545455,-171088.25329545455
+SEI Investments Company,Financial services,0.0,171088.25329545455,-171088.25329545455
+SECURIAN FINANCIAL GROUP INC,Financial services,0.0,171088.25329545455,-171088.25329545455
+Boardwalk REIT,Financial services,0.0,171088.25329545455,-171088.25329545455
+Laurentian Bank of Canada,Financial services,0.0,171088.25329545455,-171088.25329545455
+Cardinal Health Inc.,"Trading, wholesale, distribution, rental & leasing",417000.0,588969.6082795699,-171969.6082795699
+Intuit Inc.,IT & software development,20928.0,193074.4487037037,-172146.4487037037
+Teradata Corp.,IT & software development,19620.333333333332,193074.4487037037,-173454.11537037036
+Virtusa,IT & software development,18028.87,193074.4487037037,-175045.5787037037
+"Autodesk, Inc.",IT & software development,13611.0,193074.4487037037,-179463.4487037037
+ServiceNow Inc,IT & software development,13550.0,193074.4487037037,-179524.4487037037
+ICF International,IT & software development,8639.61,193074.4487037037,-184434.83870370372
+BlackBerry Limited,IT & software development,8005.790000000001,193074.4487037037,-185068.6587037037
+Lenovo Group,Electrical & electronic equipment,207352.0,393877.94455128204,-186525.94455128204
+QUALCOMM Inc.,Electrical & electronic equipment,206482.0,393877.94455128204,-187395.94455128204
+Telos Corporation,IT & software development,4446.0,193074.4487037037,-188628.4487037037
+TDK TECHNOLOGIES LLC,IT & software development,336.0,193074.4487037037,-192738.4487037037
+SHARPER TECHNOLOGY,IT & software development,4.0,193074.4487037037,-193070.4487037037
+AKVELON INC,IT & software development,0.0,193074.4487037037,-193074.4487037037
+OSLO SOLUTIONS LLC,IT & software development,0.0,193074.4487037037,-193074.4487037037
+OKTA,IT & software development,0.0,193074.4487037037,-193074.4487037037
+GENESYS EUROPE LTD (Global),IT & software development,0.0,193074.4487037037,-193074.4487037037
+THE PEER GROUP INC.,IT & software development,0.0,193074.4487037037,-193074.4487037037
+BOTTOMLINE TECHNOLOGIES EUROPE LTD,IT & software development,0.0,193074.4487037037,-193074.4487037037
+"comScore, Inc.",IT & software development,0.0,193074.4487037037,-193074.4487037037
+Conference Technologies,IT & software development,0.0,193074.4487037037,-193074.4487037037
+Fair Isaac Corporation,IT & software development,0.0,193074.4487037037,-193074.4487037037
+MIRANTIS INC,IT & software development,0.0,193074.4487037037,-193074.4487037037
+ZEN3 INFOSOLUTIONS AMERICA INC,IT & software development,0.0,193074.4487037037,-193074.4487037037
+"Cadence Design Systems, Inc.",IT & software development,0.0,193074.4487037037,-193074.4487037037
+CCL Industries,Light manufacturing,177204.77,372889.305,-195684.535
+Multi-Color NACPG,Light manufacturing,169294.0,372889.305,-203595.305
+Starbucks Corporation,"Bars, hotels & restaurants",1123551.96,1333837.9679999999,-210286.0079999999
+Celestica Inc.,Electrical & electronic equipment,183372.0,393877.94455128204,-210505.94455128204
+MIDWEST WAREHOUSE,Industrial support services,5051.0,216348.259,-211297.259
+WESTERN CARRIERS,Industrial support services,1593.59,216348.259,-214754.669
+eBay Inc.,Discretionary retail,184078.0,399419.16086956527,-215341.16086956527
+"OMARK Consultants, Inc.",Industrial support services,1.0,216348.259,-216347.259
+PS ENERGY GROUP INC,Industrial support services,0.0,216348.259,-216348.259
+NATIONAL RESPONSE,Industrial support services,0.0,216348.259,-216348.259
+Industrial Services Corp,Industrial support services,0.0,216348.259,-216348.259
+Lennox International Inc,Electrical & electronic equipment,168100.0,393877.94455128204,-225777.94455128204
+ALERIS,Transportation equipment,414225.0,645252.6023913043,-231027.60239130433
+Conagra Brands Inc,Food & beverage processing,647223.0,882845.2198484848,-235622.21984848485
+Masco Corporation,Metal products manufacturing,136431.0,372143.78133333335,-235712.78133333335
+L3Harris Technologies INC,Electrical & electronic equipment,155528.0,393877.94455128204,-238349.94455128204
+Xerox Corporation,Electrical & electronic equipment,151877.0,393877.94455128204,-242000.94455128204
+LITTELFUSE,Electrical & electronic equipment,141478.16,393877.94455128204,-252399.78455128203
+Cooper Standard Automotive,Transportation equipment,390600.0,645252.6023913043,-254652.60239130433
+Rockwell Automation,Electrical & electronic equipment,125600.0,393877.94455128204,-268277.94455128204
+Edwards Lifesciences Corp,Health care provision,36360.5,305551.2158333333,-269190.7158333333
+US Cold Storage,Electrical & electronic equipment,118427.0,393877.94455128204,-275450.94455128204
+CHALLENGER BRASS & COPPER,Metal products manufacturing,91472.0,372143.78133333335,-280671.78133333335
+American Packaging,Metal products manufacturing,87860.0,372143.78133333335,-284283.78133333335
+"Lexmark International, Inc.",Electrical & electronic equipment,103140.0,393877.94455128204,-290737.94455128204
+NetApp Inc.,Electrical & electronic equipment,101886.0,393877.94455128204,-291991.94455128204
+Kinross Gold Corporation,Metallic mineral mining,942936.25,1236396.51,-293460.26
+Plexus,Electrical & electronic equipment,99051.0,393877.94455128204,-294826.94455128204
+Lam Research Corp.,Electrical & electronic equipment,92563.37,393877.94455128204,-301314.57455128204
+"Canadian Tire Corporation, Limited",Discretionary retail,95961.0,399419.16086956527,-303458.16086956527
+KOBO PRODUCTS,Health care provision,1920.0,305551.2158333333,-303631.2158333333
+Motorola Solutions,Electrical & electronic equipment,89938.0,393877.94455128204,-303939.94455128204
+CAE Inc.,Electrical & electronic equipment,87825.0,393877.94455128204,-306052.94455128204
+KOCH ENTERPRISES INC,Metal products manufacturing,65000.0,372143.78133333335,-307143.78133333335
+Pitney Bowes Inc.,Electrical & electronic equipment,76584.0,393877.94455128204,-317293.94455128204
+"Pyxus International, Inc.",Tobacco,104039.23,422265.41,-318226.18
+Keysight Technologies Inc,Electrical & electronic equipment,73999.75000000001,393877.94455128204,-319878.19455128204
+NVIDIA Corporation,Electrical & electronic equipment,67611.0,393877.94455128204,-326266.94455128204
+Abercrombie & Fitch Co.,Discretionary retail,71561.0,399419.16086956527,-327858.16086956527
+ARTESYN EMBEDDED TECHNOLOGIES,Electrical & electronic equipment,61333.1,393877.94455128204,-332544.84455128206
+"Advanced Micro Devices, Inc",Electrical & electronic equipment,60583.0,393877.94455128204,-333294.94455128204
+"Juniper Networks, Inc.",Electrical & electronic equipment,59862.0,393877.94455128204,-334015.94455128204
+Precision Valve Corporation,Metal products manufacturing,35755.03,372143.78133333335,-336388.7513333333
+Allergan plc,Biotech & pharma,153428.0,490762.4593333333,-337334.4593333333
+General Dynamics Corporation,Transportation equipment,306160.5,645252.6023913043,-339092.10239130433
+Apple Inc.,Electrical & electronic equipment,54590.0,393877.94455128204,-339287.94455128204
+Tapestry Inc,Discretionary retail,58303.57,399419.16086956527,-341115.59086956526
+Charles River Laboratories International Inc.,Biotech & pharma,148910.4,490762.4593333333,-341852.0593333333
+Kimball Electronics,Electrical & electronic equipment,51894.35,393877.94455128204,-341983.59455128206
+Norwood Medical,Metal products manufacturing,28515.0,372143.78133333335,-343628.78133333335
+UNFI,"Trading, wholesale, distribution, rental & leasing",242230.0,588969.6082795699,-346739.6082795699
+KLA,Electrical & electronic equipment,46019.5,393877.94455128204,-347858.44455128204
+Applied Materials Inc.,Electrical & electronic equipment,45326.0,393877.94455128204,-348551.94455128204
+Bel Fuse Inc.,Metal products manufacturing,21997.39,372143.78133333335,-350146.39133333333
+Visteon,Electrical & electronic equipment,42334.0,393877.94455128204,-351543.94455128204
+PACCAR Inc,Transportation equipment,292717.0,645252.6023913043,-352535.60239130433
+Tiffany & Co.,Discretionary retail,44571.0,399419.16086956527,-354848.16086956527
+Bryce Corporation,Light manufacturing,15384.0,372889.305,-357505.305
+CY Top,Metal products manufacturing,12000.0,372143.78133333335,-360143.78133333335
+Bizlink,Electrical & electronic equipment,32160.56,393877.94455128204,-361717.38455128204
+"Guess ?, Inc.",Discretionary retail,36442.0,399419.16086956527,-362977.16086956527
+Teradyne Inc.,Electrical & electronic equipment,30312.0,393877.94455128204,-363565.94455128204
+Milestone AV Technologies,Metal products manufacturing,8207.0,372143.78133333335,-363936.78133333335
+UNYTITE,Metal products manufacturing,6034.7,372143.78133333335,-366109.08133333334
+"Marvell Technology Group, Ltd.",Electrical & electronic equipment,26905.07,393877.94455128204,-366972.87455128203
+Hamilton Safe Company,Metal products manufacturing,4200.0,372143.78133333335,-367943.78133333335
+Xilinx Inc,Electrical & electronic equipment,24766.0,393877.94455128204,-369111.94455128204
+LUMENTUM,Electrical & electronic equipment,22843.0,393877.94455128204,-371034.94455128204
+AJ ROSE MANUFACTURING COMPANY,Metal products manufacturing,943.66,372143.78133333335,-371200.1213333334
+ANISA INTERNATIONAL INC,Light manufacturing,1389.29,372889.305,-371500.015
+Delphi Productions Inc,Light manufacturing,1136.94,372889.305,-371752.365
+SPRINGFIELD MACHINE & TOOL INC,Metal products manufacturing,347.0,372143.78133333335,-371796.78133333335
+ADTRAN INC,Electrical & electronic equipment,22051.0,393877.94455128204,-371826.94455128204
+Zatkoff Seals and Packing,Light manufacturing,1047.77,372889.305,-371841.535
+Collison-Goll Limited,Metal products manufacturing,21.08,372143.78133333335,-372122.70133333333
+"JAYNA, INC.",Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+"Modern Machine & Metal Fabricators, Inc.",Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+Vander Bend,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+STAR MANUFACTURING,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+"HERD MANUFACTURING, INC.",Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+Charleston Metal Products,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+Apollo Microwaves Ltd.,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+MW Industries,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+Valmont Inc,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+BWAY Corporation,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+W SOULE & CO,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+STEWART MANUFACTURING LLC,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+Martinrea International Inc.,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+NATIONAL-STANDARD COMPANY,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+"Kreher Steel Company, LLC",Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+C & M Manufacturing Corporation,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+NATIONAL FRAME RAIL INC,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+"Dee Zee, Inc.",Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+TRINITY FORGE,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+AMERICAN MACHINE WORKS INC,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+BWI Group,Metal products manufacturing,0.0,372143.78133333335,-372143.78133333335
+Chroma,Light manufacturing,0.0,372889.305,-372889.305
+Stephen Gould Corp,Light manufacturing,0.0,372889.305,-372889.305
+C-P Flexible Packaging,Light manufacturing,0.0,372889.305,-372889.305
+Reynolds Consumer Products,Light manufacturing,0.0,372889.305,-372889.305
+QPSI,Light manufacturing,0.0,372889.305,-372889.305
+"ROYAL CONSUMER INFORMATION PRODUCTS, INC.",Electrical & electronic equipment,19459.0,393877.94455128204,-374418.94455128204
+Ciena Corp.,Electrical & electronic equipment,19411.68,393877.94455128204,-374466.26455128205
+"Integrated Device Technology, Inc.",Electrical & electronic equipment,15276.0,393877.94455128204,-378601.94455128204
+Ribbon,Electrical & electronic equipment,13552.7,393877.94455128204,-380325.244551282
+LATTICE SEMICONDUCTOR,Electrical & electronic equipment,12444.0,393877.94455128204,-381433.94455128204
+Form Factor Inc.,Electrical & electronic equipment,12396.0,393877.94455128204,-381481.94455128204
+Trimble Navigation Ltd.,Electrical & electronic equipment,11161.85,393877.94455128204,-382716.09455128206
+Biogen Inc.,Biotech & pharma,104716.25,490762.4593333333,-386046.2093333333
+NEOPHOTONICS CORPORATION,Electrical & electronic equipment,7429.629999999999,393877.94455128204,-386448.31455128203
+Arista Networks,Electrical & electronic equipment,6674.02,393877.94455128204,-387203.924551282
+SMART Modular Technologies,Electrical & electronic equipment,5730.165,393877.94455128204,-388147.77955128206
+"Itron, Inc.",Electrical & electronic equipment,3445.0,393877.94455128204,-390432.94455128204
+BOYD,Electrical & electronic equipment,3418.93,393877.94455128204,-390459.01455128205
+Xylem Inc,Powered machinery,100904.86499999999,492140.990263158,-391236.125263158
+Netgear,Electrical & electronic equipment,2427.995,393877.94455128204,-391449.94955128204
+VIVOTEK LTD,Electrical & electronic equipment,1212.555,393877.94455128204,-392665.38955128205
+Turtle & Hughes,Electrical & electronic equipment,773.5,393877.94455128204,-393104.44455128204
+Actiontec Electronics,Electrical & electronic equipment,277.0,393877.94455128204,-393600.94455128204
+SEMTECH,Electrical & electronic equipment,232.0,393877.94455128204,-393645.94455128204
+SONIM TECHNOLOGIES INC,Electrical & electronic equipment,100.0,393877.94455128204,-393777.94455128204
+G & W Electric,Electrical & electronic equipment,38.400000000000006,393877.94455128204,-393839.544551282
+VALUTECH OUTSOURCING LLC,Electrical & electronic equipment,2.37,393877.94455128204,-393875.57455128204
+"MONOLITHIC POWER SYSTEMS, INC.",Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+CLEAVELAND/PRICE INC.,Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+"STANDARD CABLE USA, INC.",Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+PCTEL,Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+ISSI,Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+LANNER ELEC,Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+Bel Power Solutions,Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+Aurora Corp of America,Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+Contact Technologies,Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+NEOGRAF SOLUTIONS,Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+Unigen,Electrical & electronic equipment,0.0,393877.94455128204,-393877.94455128204
+"Regeneron Pharmaceuticals, Inc.",Biotech & pharma,96744.0,490762.4593333333,-394018.4593333333
+"Etsy, Inc.",Discretionary retail,3294.87,399419.16086956527,-396124.2908695653
+Pacific Market International,Discretionary retail,939.85,399419.16086956527,-398479.3108695653
+Sequin,Discretionary retail,0.0,399419.16086956527,-399419.16086956527
+CRYSTAL ART OF FLORIDA  INC,Discretionary retail,0.0,399419.16086956527,-399419.16086956527
+VICKI'S PARTY PRO INC,Discretionary retail,0.0,399419.16086956527,-399419.16086956527
+Ralph Lauren Corporation,Discretionary retail,0.0,399419.16086956527,-399419.16086956527
+ONE WORKPLACE L FERRARI,Discretionary retail,0.0,399419.16086956527,-399419.16086956527
+Terex Corporation,Powered machinery,86402.0,492140.990263158,-405738.990263158
+"Gilead Sciences, Inc.",Biotech & pharma,83844.0,490762.4593333333,-406918.4593333333
+Omnicom Group Inc.,Web & marketing services,96021.0,504502.72222222225,-408481.72222222225
+The J.M. Smucker Company,Food & beverage processing,459780.0,882845.2198484848,-423065.21984848485
+Celgene Corporation,Biotech & pharma,59887.740000000005,490762.4593333333,-430874.7193333333
+Navistar International Corporation,Transportation equipment,213997.0,645252.6023913043,-431255.60239130433
+Keurig Dr Pepper,Food & beverage processing,440058.84,882845.2198484848,-442786.3798484848
+Dover Corporation,Powered machinery,45985.0,492140.990263158,-446155.990263158
+Tennant Company,Powered machinery,39025.5,492140.990263158,-453115.490263158
+ATS Automation Tooling Systems,Powered machinery,34013.29,492140.990263158,-458127.700263158
+"W.W. Grainger, Inc.","Trading, wholesale, distribution, rental & leasing",128252.0,588969.6082795699,-460717.6082795699
+AmerisourceBergen Corp.,"Trading, wholesale, distribution, rental & leasing",127566.06,588969.6082795699,-461403.5482795699
+Univar Solutions,"Trading, wholesale, distribution, rental & leasing",123173.5,588969.6082795699,-465796.1082795699
+"Interpublic Group of Companies, Inc.",Web & marketing services,28848.1,504502.72222222225,-475654.6222222223
+Tower Labs,Biotech & pharma,3368.0,490762.4593333333,-487394.4593333333
+TAMRON,Powered machinery,1392.0,492140.990263158,-490748.990263158
+"Lnk International, Inc.",Biotech & pharma,0.0,490762.4593333333,-490762.4593333333
+KLINGSPOR ABRASIVES INC,Powered machinery,600.0,492140.990263158,-491540.990263158
+Marwood International Inc,Powered machinery,0.0,492140.990263158,-492140.990263158
+FORGE INDUSTRIES INC,Powered machinery,0.0,492140.990263158,-492140.990263158
+Neapco,Powered machinery,0.0,492140.990263158,-492140.990263158
+"Standard Iron & Wire Works, Inc.",Powered machinery,0.0,492140.990263158,-492140.990263158
+TSM CORP,Powered machinery,0.0,492140.990263158,-492140.990263158
+CAMPBELL WRAPPER CORP,Powered machinery,0.0,492140.990263158,-492140.990263158
+Golden State Foods,"Trading, wholesale, distribution, rental & leasing",93300.85,588969.6082795699,-495668.7582795699
+Schawk Inc,Web & marketing services,5285.570000000001,504502.72222222225,-499217.15222222224
+Flowers Foods Inc,Food & beverage processing,382646.0,882845.2198484848,-500199.21984848485
+Shopify Inc,Web & marketing services,2087.83,504502.72222222225,-502414.89222222223
+ARMSTRONG PARTNERSHIP,Web & marketing services,75.0,504502.72222222225,-504427.72222222225
+"BENCHMARK CRAFTSMAN, INC.",Web & marketing services,0.0,504502.72222222225,-504502.72222222225
+HARTE-HANKS,Web & marketing services,0.0,504502.72222222225,-504502.72222222225
+FIG STREET MARKETING GROUP,Web & marketing services,0.0,504502.72222222225,-504502.72222222225
+"Constellation Brands, Inc.",Food & beverage processing,370439.0,882845.2198484848,-512406.21984848485
+"J.B. Hunt Transport Services, Inc.",Intermodal transport & logistics,1658395.0,2182484.606,-524089.60600000015
+Avnet Inc.,"Trading, wholesale, distribution, rental & leasing",59642.0,588969.6082795699,-529327.6082795699
+Wesco International,"Trading, wholesale, distribution, rental & leasing",58782.0,588969.6082795699,-530187.6082795699
+Rockline Industries,"Trading, wholesale, distribution, rental & leasing",29711.0,588969.6082795699,-559258.6082795699
+Hewlett Packard Enterprise Company,"Media, telecommunications & data center services",403018.0,964808.89125,-561790.89125
+Henry Schein Inc.,"Trading, wholesale, distribution, rental & leasing",25783.0,588969.6082795699,-563186.6082795699
+MRC Global Inc,"Trading, wholesale, distribution, rental & leasing",16666.666666666668,588969.6082795699,-572302.9416129033
+The Hershey Company,Food & beverage processing,309953.0,882845.2198484848,-572892.2198484848
+BRP,Transportation equipment,71730.0,645252.6023913043,-573522.6023913043
+Paris Presents LTD,"Trading, wholesale, distribution, rental & leasing",427.3,588969.6082795699,-588542.3082795698
+Direct Source Seafood,"Trading, wholesale, distribution, rental & leasing",5.7,588969.6082795699,-588963.9082795699
+Service Steel Div. / Van Pelt Corp.,"Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+"Bry-lex, Inc.","Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+"NITCO, LLC","Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+AARON GROUP INC,"Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+BRENT BALTIN,"Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+AMERICAN TIRE DISTRIBUTORS INC,"Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+Guangdong Textiles,"Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+Shason Inc.,"Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+INDULGENT FOODS,"Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+TECHNOLOGY INTEGRATION GROUP,"Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+ROAD SHOW LOGISTICS LLC,"Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+"Bradshaw International, Inc.","Trading, wholesale, distribution, rental & leasing",0.0,588969.6082795699,-588969.6082795699
+Xanterra Parks & Resorts,Entertainment facilities,133880.0,725407.8333333334,-591527.8333333334
+Dakkota,Transportation equipment,27074.0,645252.6023913043,-618178.6023913043
+BCE Inc.,"Media, telecommunications & data center services",333293.0,964808.89125,-631515.89125
+Telus Corporation,"Media, telecommunications & data center services",329224.0,964808.89125,-635584.89125
+Neapco Europe,Transportation equipment,6600.0,645252.6023913043,-638652.6023913043
+Mando corporation USA,Transportation equipment,4818.639999999999,645252.6023913043,-640433.9623913043
+BATESVILLE TOOL & DIE INC,Transportation equipment,4599.26,645252.6023913043,-640653.3423913043
+"ROCKFORD PROCESS CONTROL, INC.",Transportation equipment,2881.8250000000003,645252.6023913043,-642370.7773913044
+"MARION INDUSTRIES, INC.",Transportation equipment,2117.11,645252.6023913043,-643135.4923913043
+BELLETECH CORP,Transportation equipment,1572.52,645252.6023913043,-643680.0823913043
+Detroit Manufacturing Systems,Transportation equipment,0.0,645252.6023913043,-645252.6023913043
+INDIANA AUTOMOTIVE FASTENERS INC.,Transportation equipment,0.0,645252.6023913043,-645252.6023913043
+SHAPE CORP,Transportation equipment,0.0,645252.6023913043,-645252.6023913043
+MILSCO MANUFACTURING,Transportation equipment,0.0,645252.6023913043,-645252.6023913043
+Piston Automotive,Transportation equipment,0.0,645252.6023913043,-645252.6023913043
+APPLIED ACOUSTICS INTERNATIONAL,Transportation equipment,0.0,645252.6023913043,-645252.6023913043
+McDonald's Corporation,"Bars, hotels & restaurants",679502.0,1333837.9679999999,-654335.9679999999
+HudBay Minerals Inc.,Metallic mineral mining,573290.0,1236396.51,-663106.51
+Hess Corporation,Oil & gas extraction & production,3919979.0,4601067.299431819,-681088.2994318185
+Brown-Forman Corporation,Food & beverage processing,179652.0,882845.2198484848,-703193.2198484848
+Kruger Products Inc,Wood & paper materials,337605.0,1054255.46,-716650.46
+Maple Leaf Foods Inc.,Food & beverage processing,151485.0,882845.2198484848,-731360.2198484848
+CBS Corp.,"Media, telecommunications & data center services",220546.59,964808.89125,-744262.30125
+Del Monte Foods,Food & beverage processing,126680.0,882845.2198484848,-756165.2198484848
+"McCormick & Company, Incorporated",Food & beverage processing,117230.0,882845.2198484848,-765615.2198484848
+California Resources Corp,Oil & gas extraction & production,3830951.0,4601067.299431819,-770116.2994318185
+Centerra Gold Inc.,Metallic mineral mining,463424.81,1236396.51,-772971.7
+"The Hain Celestial Group, Inc.",Food & beverage processing,102999.0,882845.2198484848,-779846.2198484848
+Rogers Communications Inc.,"Media, telecommunications & data center services",167579.0,964808.89125,-797229.89125
+"Tree Top, Inc.",Food & beverage processing,76391.0,882845.2198484848,-806454.2198484848
+Grain Craft,Food & beverage processing,70261.81,882845.2198484848,-812583.4098484849
+Agnico-Eagle Mines Limited,Metallic mineral mining,411346.0,1236396.51,-825050.51
+Perfection Bakeries Inc.,Food & beverage processing,45764.0,882845.2198484848,-837081.2198484848
+Yamana Gold Inc.,Metallic mineral mining,397450.37,1236396.51,-838946.14
+Farmer Brothers,Food & beverage processing,40241.0,882845.2198484848,-842604.2198484848
+Roskam Baking Company/Rothbury Farms,Food & beverage processing,27653.0,882845.2198484848,-855192.2198484848
+Star of the West,Food & beverage processing,27232.14,882845.2198484848,-855613.0798484848
+BARDSTOWN BOURBON COMPANY,Food & beverage processing,15149.0,882845.2198484848,-867696.2198484848
+Tosoh Quartz,Other materials,3402.0,875466.0416666666,-872064.0416666666
+Moody Dunbar Inc,Food & beverage processing,9747.5,882845.2198484848,-873097.7198484848
+Sensory Effects,Food & beverage processing,7958.6,882845.2198484848,-874886.6198484849
+CITY BREWING COMPANY LLC,Food & beverage processing,7515.0,882845.2198484848,-875330.2198484848
+NATIONAL PACKAGING SERVICE,Other materials,0.0,875466.0416666666,-875466.0416666666
+KRAYDEN,Other materials,0.0,875466.0416666666,-875466.0416666666
+"U. S. ELECTROFUSED MINERALS, INC.",Other materials,0.0,875466.0416666666,-875466.0416666666
+The Andersons Canada Limited,Food & beverage processing,5933.0,882845.2198484848,-876912.2198484848
+Yakima Chief Inc.,Food & beverage processing,4449.0,882845.2198484848,-878396.2198484848
+"Harbinger Group, LLC dba Misionero",Food & beverage processing,3972.0,882845.2198484848,-878873.2198484848
+Harris Tea Company,Food & beverage processing,2773.0,882845.2198484848,-880072.2198484848
+Healthy Food Ingredients,Food & beverage processing,1605.4,882845.2198484848,-881239.8198484848
+Golding Farms Foods,Food & beverage processing,1288.0,882845.2198484848,-881557.2198484848
+"Mario Camacho Foods, Llc",Food & beverage processing,927.5,882845.2198484848,-881917.7198484848
+NATURAL ADVANTAGE,Food & beverage processing,533.75,882845.2198484848,-882311.4698484848
+Labbeemint,Food & beverage processing,530.3,882845.2198484848,-882314.9198484848
+Cumberland Packing Corp,Food & beverage processing,431.0,882845.2198484848,-882414.2198484848
+Crown Prince,Food & beverage processing,45.92,882845.2198484848,-882799.2998484848
+Lion Raisins Inc,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+WINDMILL RICE CO LLC,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+Golden Crust Bakeries Inc.,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+BEE NATURAL HONEY LLC,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+AVA PORK PRODUCTS INC,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+OREGON POTATO CO,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+Knappen Milling,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+"American Sugar Refining, Inc.",Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+"M&G EXPRESSO,INC",Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+Grain Millers,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+ALBERT USTER IMPORTS INC,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+"Premio Foods, Inc.",Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+"Norpac Foods, Inc.",Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+"Interstate Meat Dist., Inc.",Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+The Kraft Heinz Company,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+Coalescence,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+Snavely,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+King Milling,Food & beverage processing,0.0,882845.2198484848,-882845.2198484848
+Celanese Corporation,Chemicals,2543229.0,3437119.735733333,-893890.735733333
+Viacom Inc.,"Media, telecommunications & data center services",49637.84,964808.89125,-915171.05125
+Avaya,"Media, telecommunications & data center services",48646.0,964808.89125,-916162.89125
+Cogeco Inc.,"Media, telecommunications & data center services",44344.0,964808.89125,-920464.89125
+Quebecor Inc.,"Media, telecommunications & data center services",13970.92,964808.89125,-950837.97125
+WORLD WIDE TECHNOLOGY HOLDING COMPANY,"Media, telecommunications & data center services",10858.6,964808.89125,-953950.29125
+"GROUP O, INC","Media, telecommunications & data center services",5245.5,964808.89125,-959563.39125
+Syniverse,"Media, telecommunications & data center services",4143.98,964808.89125,-960664.91125
+Stella-Jones Inc,Wood & paper materials,90517.26,1054255.46,-963738.2
+SAVANT ACCESS INCORPORATED,"Media, telecommunications & data center services",0.0,964808.89125,-964808.89125
+BMF MEDIA GROUP LLC,"Media, telecommunications & data center services",0.0,964808.89125,-964808.89125
+"SKC Communication Products, LLC","Media, telecommunications & data center services",0.0,964808.89125,-964808.89125
+MILLENNIUM TECHNICAL SERVICES,"Media, telecommunications & data center services",0.0,964808.89125,-964808.89125
+CCOMM INTEGRATED TECHNOLOGY SERVICES INC,"Media, telecommunications & data center services",0.0,964808.89125,-964808.89125
+Crescent Point Energy Corporation,Oil & gas extraction & production,3635496.4400000004,4601067.299431819,-965570.8594318181
+Endeavour Mining Corp,Metallic mineral mining,268452.0,1236396.51,-967944.51
+Detour Gold Corporation,Metallic mineral mining,263761.5,1236396.51,-972635.01
+Wyndham Hotels & Resorts,"Bars, hotels & restaurants",293363.0,1333837.9679999999,-1040474.9679999999
+Target Corporation,Convenience retail,2917548.0,3958659.0579999997,-1041111.0579999997
+"COMMERCIAL LUMBER & PALLET CO., INC.",Wood & paper materials,0.0,1054255.46,-1054255.46
+Eldorado Gold Corporation,Metallic mineral mining,142059.0,1236396.51,-1094337.51
+"Yum! Brands, Inc.","Bars, hotels & restaurants",203485.72,1333837.9679999999,-1130352.248
+"Wyndham Destinations, Inc.","Bars, hotels & restaurants",198949.0,1333837.9679999999,-1134888.9679999999
+Franco-Nevada Corporation,Metallic mineral mining,46.5,1236396.51,-1236350.01
+"Schnitzer Steel Industries, Inc.","Metal smelting, refining & forming",152804.0,1395845.625,-1243041.625
+Dunkin' Brands Group,"Bars, hotels & restaurants",2886.0,1333837.9679999999,-1330951.9679999999
+THE SERVICE COMPANIES DBA FULL SERVICE SYSTEMS,"Bars, hotels & restaurants",0.0,1333837.9679999999,-1333837.9679999999
+Revere Copper,"Metal smelting, refining & forming",49798.0,1395845.625,-1346047.625
+Avery Dennison Corporation,Paper products & packaging,832963.0,2227132.4977777777,-1394169.4977777777
+EATON STEEL CORPORATION,"Metal smelting, refining & forming",0.0,1395845.625,-1395845.625
+Steel Dynamics Inc.,"Metal smelting, refining & forming",0.0,1395845.625,-1395845.625
+OHASHI TECHNICA USA INC,"Metal smelting, refining & forming",0.0,1395845.625,-1395845.625
+CUSTOM STEEL PROCESSING,"Metal smelting, refining & forming",0.0,1395845.625,-1395845.625
+Ormat Technologies Inc,Renewable power generation,33739.52,1470104.0833333333,-1436364.5633333332
+AltaGas Ltd.,Energy utility networks,2361712.0,3806622.5,-1444910.5
+Costco Wholesale Corporation,Convenience retail,2508419.41,3958659.0579999997,-1450239.6479999996
+Huntsman Corporation,Chemicals,1800576.0,3437119.735733333,-1636543.735733333
+Cascades Inc.,Paper products & packaging,562163.0,2227132.4977777777,-1664969.4977777777
+Canadian Pacific Railway,Rail transport,3101936.0,4774019.688571429,-1672083.6885714289
+Walgreens Boots Alliance,Convenience retail,2145000.0,3958659.0579999997,-1813659.0579999997
+"The HAVI Group, LP",Intermodal transport & logistics,139865.0,2182484.606,-2042619.6060000001
+Expeditors International of Washington,Intermodal transport & logistics,54704.9,2182484.606,-2127779.7060000002
+C.H. Robinson,Intermodal transport & logistics,34225.0,2182484.606,-2148259.606
+ModusLink Corporation,Intermodal transport & logistics,8194.0,2182484.606,-2174290.606
+"DW Morgan, LLC",Intermodal transport & logistics,2527.3,2182484.606,-2179957.3060000003
+Trans-Expedite Inc.,Intermodal transport & logistics,876.86,2182484.606,-2181607.7460000003
+OIA GLOBAL,Intermodal transport & logistics,539.5,2182484.606,-2181945.106
+EMO TRANS,Intermodal transport & logistics,294.54999999999995,2182484.606,-2182190.0560000003
+WHEELS HOLDCO INC,Intermodal transport & logistics,214.73,2182484.606,-2182269.876
+LINK AMERICA INC,Intermodal transport & logistics,62.25,2182484.606,-2182422.356
+KC Transportation,Intermodal transport & logistics,0.0,2182484.606,-2182484.606
+BANGARANG ENTERPRISES LLC,Intermodal transport & logistics,0.0,2182484.606,-2182484.606
+PlanAhead,Paper products & packaging,10000.0,2227132.4977777777,-2217132.4977777777
+Accurate Box,Paper products & packaging,7155.0,2227132.4977777777,-2219977.4977777777
+Bay Corrugated,Paper products & packaging,5244.57,2227132.4977777777,-2221887.927777778
+Horizon Group USA,Paper products & packaging,1286.5,2227132.4977777777,-2225845.9977777777
+Oneok Inc.,Oil & gas storage & transportation,2650000.0,4876529.333333333,-2226529.333333333
+"Central Business Forms, Inc",Paper products & packaging,69.0,2227132.4977777777,-2227063.4977777777
+Curtis Packaging Corporation,Paper products & packaging,0.0,2227132.4977777777,-2227132.4977777777
+J M HUBER,Chemicals,1155972.0,3437119.735733333,-2281147.735733333
+Ashland Global Holdings Inc,Chemicals,1144000.0,3437119.735733333,-2293119.735733333
+Southwest Airlines Co.,Air transport,20584682.0,22877975.575714286,-2293293.5757142864
+Teck Resources Limited,Coal mining,2896471.04,5205697.52,-2309226.4799999995
+MEG Energy Corp.,Oil & gas extraction & production,2140559.0,4601067.299431819,-2460508.2994318185
+Tokai Carbon CB,Chemicals,956929.0,3437119.735733333,-2480190.735733333
+"PPG Industries, Inc.",Chemicals,930000.0,3437119.735733333,-2507119.735733333
+Versum,Chemicals,888049.0,3437119.735733333,-2549070.735733333
+Sherwin-Williams Company,Chemicals,809197.0,3437119.735733333,-2627922.735733333
+Covanta Energy Corporation,Non-energy utilities,4352209.0,7007470.6,-2655261.5999999996
+Bemis Company,Chemicals,715635.0,3437119.735733333,-2721484.735733333
+PPL Corporation,Thermal power generation,29821575.0,32559887.141231883,-2738312.1412318833
+Colgate Palmolive Company,Chemicals,607058.0,3437119.735733333,-2830061.735733333
+Tourmaline Oil Corp,Oil & gas extraction & production,1685501.5,4601067.299431819,-2915565.7994318185
+Koppers Holdings Inc,Chemicals,463463.0,3437119.735733333,-2973656.735733333
+Eversource Energy,Energy utility networks,812237.0,3806622.5,-2994385.5
+FMC Corp,Chemicals,287099.0,3437119.735733333,-3150020.735733333
+Empire Company Limited,Convenience retail,802920.0,3958659.0579999997,-3155739.0579999997
+PolyOne,Chemicals,272700.54000000004,3437119.735733333,-3164419.195733333
+Clorox Company,Chemicals,272049.0,3437119.735733333,-3165070.735733333
+Loblaw Companies Limited,Convenience retail,768996.73,3958659.0579999997,-3189662.3279999997
+International Flavors & Fragrances Inc.,Chemicals,241066.0,3437119.735733333,-3196053.735733333
+Axalta Coating Systems,Chemicals,201136.5,3437119.735733333,-3235983.235733333
+Baytex Energy Corp.,Oil & gas extraction & production,1342631.14,4601067.299431819,-3258436.159431819
+"Church & Dwight Co., Inc",Chemicals,168231.0,3437119.735733333,-3268888.735733333
+H.B. Fuller,Chemicals,162454.0,3437119.735733333,-3274665.735733333
+KIK Custom Products,Chemicals,160694.0,3437119.735733333,-3276425.735733333
+"Avon Products, Inc.",Chemicals,109357.0,3437119.735733333,-3327762.735733333
+Kansas City Southern,Rail transport,1438940.0,4774019.688571429,-3335079.688571429
+Estee Lauder Companies Inc.,Chemicals,93927.23000000001,3437119.735733333,-3343192.505733333
+Innospec Inc.,Chemicals,85776.0,3437119.735733333,-3351343.735733333
+LION ELASTOMERS,Chemicals,56700.6,3437119.735733333,-3380419.135733333
+"Valvoline, LLC",Chemicals,32933.666666666664,3437119.735733333,-3404186.0690666665
+FLOW POLYMERS,Chemicals,20271.77,3437119.735733333,-3416847.965733333
+Kmg Electronic Materials,Chemicals,18588.0,3437119.735733333,-3418531.735733333
+Tosoh SMD,Chemicals,10404.0,3437119.735733333,-3426715.735733333
+Brewer Science,Chemicals,10004.79,3437119.735733333,-3427114.945733333
+Moses Lake Industries,Chemicals,7336.0,3437119.735733333,-3429783.735733333
+CABOT MICROELECTRONICS CORP,Chemicals,2385.0,3437119.735733333,-3434734.735733333
+Fujimi Incorporated,Chemicals,2332.25,3437119.735733333,-3434787.485733333
+CRC INDUSTRIES INC,Chemicals,2030.0,3437119.735733333,-3435089.735733333
+Bright International Corp.,Chemicals,1002.0,3437119.735733333,-3436117.735733333
+MAYS CHEMICAL CO INC,Chemicals,953.44,3437119.735733333,-3436166.295733333
+PT Cahaya Bumi Cemerlang,Chemicals,181.0,3437119.735733333,-3436938.735733333
+"RPM International, Inc.",Chemicals,0.0,3437119.735733333,-3437119.735733333
+RSC Chemical Solutions,Chemicals,0.0,3437119.735733333,-3437119.735733333
+"BRADFORD SOAP WORKS, INC.",Chemicals,0.0,3437119.735733333,-3437119.735733333
+Wildcat Wholesale LLC,Chemicals,0.0,3437119.735733333,-3437119.735733333
+Seven Generations Energy,Oil & gas extraction & production,1065438.6099999999,4601067.299431819,-3535628.6894318187
+Hydro One Limited,Energy utility networks,218086.0,3806622.5,-3588536.5
+Enerplus Corporation,Oil & gas extraction & production,1003528.0,4601067.299431819,-3597539.2994318185
+Bonavista Energy Corporation,Oil & gas extraction & production,926603.0,4601067.299431819,-3674464.2994318185
+Metro Inc.,Convenience retail,261651.0,3958659.0579999997,-3697008.0579999997
+Vermilion Energy Inc.,Oil & gas extraction & production,903487.0,4601067.299431819,-3697580.2994318185
+ARC Resources Ltd.,Oil & gas extraction & production,895594.53,4601067.299431819,-3705472.7694318183
+Inter Pipeline Ltd.,Oil & gas storage & transportation,1119790.0,4876529.333333333,-3756739.333333333
+Amtrak,Rail transport,972245.0,4774019.688571429,-3801774.688571429
+George Weston Limited,Convenience retail,153311.95,3958659.0579999997,-3805347.1079999995
+NORTHLINE UTILITIES,Energy utility networks,300.0,3806622.5,-3806322.5
+DAVEY TREE EXPERT,Energy utility networks,67.0,3806622.5,-3806555.5
+DDS UTILITIES,Energy utility networks,0.0,3806622.5,-3806622.5
+"OSMOSE UTILITIES SERVICES, INC",Energy utility networks,0.0,3806622.5,-3806622.5
+Atmos Energy Corp,Energy utility networks,0.0,3806622.5,-3806622.5
+"Veteran Supply Services, LLC",Energy utility networks,0.0,3806622.5,-3806622.5
+F & G CONSTRUCTION,Energy utility networks,0.0,3806622.5,-3806622.5
+Gran Tierra Energy Inc.,Oil & gas extraction & production,594748.83,4601067.299431819,-4006318.4694318185
+NuVista Energy,Oil & gas extraction & production,296931.0,4601067.299431819,-4304136.299431819
+Surge Energy Inc,Oil & gas extraction & production,240019.7175,4601067.299431819,-4361047.581931818
+Kosmos Energy Ltd.,Oil & gas extraction & production,111648.58,4601067.299431819,-4489418.719431818
+Parex Resources Inc,Oil & gas extraction & production,103165.45,4601067.299431819,-4497901.849431818
+Dominion Energy,Thermal power generation,27870574.0,32559887.141231883,-4689313.141231883
+FEENEY BROTHERS EXCAVATION,Oil & gas storage & transportation,0.0,4876529.333333333,-4876529.333333333
+ACCU WELD TECHNOLOGIES,Oil & gas storage & transportation,0.0,4876529.333333333,-4876529.333333333
+TransAlta Corporation,Thermal power generation,27135199.333333332,32559887.141231883,-5424687.807898551
+WEC Energy Group,Thermal power generation,27104000.0,32559887.141231883,-5455887.141231883
+American Water Works,Non-energy utilities,608409.0,7007470.6,-6399061.6
+"Essential Utilities, Inc",Non-energy utilities,57885.0,7007470.6,-6949585.6
+Keyera Corp.,Oil & gas processing,2039487.0,9274180.35,-7234693.35
+Calumet Specialty Products Partners LP,Oil & gas processing,33027.4,9274180.35,-9241152.95
+Air Canada,Air transport,12885229.0,22877975.575714286,-9992746.575714286
+Emera Inc.,Thermal power generation,21062193.0,32559887.141231883,-11497694.141231883
+Jetblue Airways Corporation,Air transport,8397600.0,22877975.575714286,-14480375.575714286
+Alaska Air Group,Air transport,7761999.0,22877975.575714286,-15115976.575714286
+Alliant Energy Corporation,Thermal power generation,16203446.995,32559887.141231883,-16356440.146231884
+Public Service Enterprise Group Inc.,Thermal power generation,14650360.0,32559887.141231883,-17909527.141231883
+OGE Energy Corp.,Thermal power generation,14300968.0,32559887.141231883,-18258919.141231883
+CMS Energy Corporation,Thermal power generation,13218663.0,32559887.141231883,-19341224.141231883
+Pinnacle West Capital Corporation,Thermal power generation,12022443.0,32559887.141231883,-20537444.141231883
+Capital Power Corporation,Thermal power generation,11075847.0,32559887.141231883,-21484040.141231883
+Sempra Energy,Thermal power generation,6501565.0,32559887.141231883,-26058322.141231883
+PG&E Corporation,Thermal power generation,4931639.0,32559887.141231883,-27628248.141231883
+SMUD,Thermal power generation,1908179.0,32559887.141231883,-30651708.141231883
+Avangrid Inc,Thermal power generation,1744765.0,32559887.141231883,-30815122.141231883
